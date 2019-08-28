@@ -4,7 +4,7 @@
 #include<algorithm>
 using namespace std;
 
-int main()
+int main09()
 {
 	int n;
 	cin >> n;

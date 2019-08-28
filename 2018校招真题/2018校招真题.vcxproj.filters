@@ -21,9 +21,6 @@
     <ClCompile Include="01.拼多多_最大乘积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="03.拼多多——六一儿童节.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -43,6 +40,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="09.网易——堆棋子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.翻转数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.纸牌游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

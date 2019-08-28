@@ -155,7 +155,8 @@
     <ClCompile Include="07.网易——操作序列.cpp" />
     <ClCompile Include="08.网易——独立的小易.cpp" />
     <ClCompile Include="09.网易——堆棋子.cpp" />
-    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="10.翻转数列.cpp" />
+    <ClCompile Include="11.纸牌游戏.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
